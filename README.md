@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-**tarikkotan/tarikkotan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal blog
 - 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with React
+- 💬 Ask me about whatever you wanna know
+- 📫 How to reach me: Mail  is the easiest way to reach me
+- ⚡ Fun fact: My voice can be the best voice while i am taking a shower
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikkotan)](https://github.com/anuraghazra/github-readme-stats)
