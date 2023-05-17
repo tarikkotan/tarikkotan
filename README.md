@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about whatever you wanna know
 - 📫 How to reach me: Mail  is the easiest way to reach me
-- ⚡ Fun fact: My voice can be the best voice while i am taking a shower
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikkotan)](https://github.com/anuraghazra/github-readme-stats)
